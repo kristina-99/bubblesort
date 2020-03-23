@@ -1,0 +1,12 @@
+C:\Users\USER\source\repos\bbsort3\bbsort3\bin\Debug\bbsort3.exe.config
+C:\Users\USER\source\repos\bbsort3\bbsort3\bin\Debug\bbsort3.exe
+C:\Users\USER\source\repos\bbsort3\bbsort3\bin\Debug\bbsort3.pdb
+C:\Users\USER\source\repos\bbsort3\bbsort3\obj\Debug\bbsort3.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\bbsort3\bbsort3\obj\Debug\bbsort3.Form1.resources
+C:\Users\USER\source\repos\bbsort3\bbsort3\obj\Debug\bbsort3.Properties.Resources.resources
+C:\Users\USER\source\repos\bbsort3\bbsort3\obj\Debug\bbsort3.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\bbsort3\bbsort3\obj\Debug\bbsort3.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\bbsort3\bbsort3\obj\Debug\bbsort3.exe
+C:\Users\USER\source\repos\bbsort3\bbsort3\obj\Debug\bbsort3.pdb
+C:\Users\USER\source\repos\bbsort3\bbsort3\obj\Debug\bbsort3.Visual.resources
+C:\Users\USER\source\repos\bbsort3\bbsort3\obj\Debug\bbsort3.Error.resources
